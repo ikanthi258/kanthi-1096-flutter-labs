@@ -1,3 +1,16 @@
+// ============================================
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code using Row, Colum layout to show student information
+// included Name Lastname and student's ID and showed it center of the screen.
+// Text style : text size = 24 with bold style.
+//
+// @author Kanthi Phrakhienthong
+// @date 2025-12-16
+// ============================================
+
 import 'package:flutter/material.dart';
 
 void main() {
