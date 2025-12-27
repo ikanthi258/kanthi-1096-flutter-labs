@@ -7,30 +7,42 @@ class PetCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: ClipRRect(
-        borderRadius: BorderRadius.circular(15.0),
-        child: Container(
-          constraints: const BoxConstraints(maxWidth: 120),
-          color: Colors.pinkAccent,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            spacing: 10,
-            children: [
-              Image.network(imgURL, width: 120, height: 120, fit: BoxFit.cover),
-              Text(
-                name,
-                style: TextStyle(
-                  decoration: TextDecoration.none,
-                  fontSize: 25,
-                  color: Colors.white,
-                ),
-              ),
-            ],
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        ClipRRect(
+          borderRadius: BorderRadius.only(
+            topLeft: Radius.circular(15.0),
+            topRight: Radius.circular(15.0),
+          ),
+          child: Image.network(
+            imgURL,
+            width: 120,
+            height: 120,
+            fit: BoxFit.cover,
           ),
         ),
-      ),
+        Container(
+          width: 120,
+          decoration: BoxDecoration(
+            color: Colors.pink,
+            borderRadius: BorderRadius.only(
+              bottomLeft: Radius.circular(15.0),
+              bottomRight: Radius.circular(15.0),
+            ),
+          ),
+          padding: EdgeInsets.symmetric(vertical: 5),
+          child: Text(
+            name,
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+              color: Colors.white,
+            ),
+          ),
+        ),
+      ],
     );
   }
 }
