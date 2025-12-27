@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
