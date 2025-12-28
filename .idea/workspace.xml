@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card_with_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/pet_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Flutter.container_quote.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.custom_font.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.pet model screen.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.pet screen.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.quote_fav.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.student_profile.executor&quot;: &quot;Run&quot;,
@@ -71,13 +76,17 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.pet screen">
+  <component name="RunManager" selected="Flutter.pet model screen">
     <configuration name="container_quote" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quote_container_card.dart" />
       <method v="2" />
     </configuration>
     <configuration name="custom_font" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pet model screen" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" />
       <method v="2" />
     </configuration>
     <configuration name="pet screen" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -98,6 +107,7 @@
       <item itemvalue="Flutter.container_quote" />
       <item itemvalue="Flutter.custom_font" />
       <item itemvalue="Flutter.pet screen" />
+      <item itemvalue="Flutter.pet model screen" />
     </list>
   </component>
   <component name="TaskManager">
