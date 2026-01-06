@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/pet_card_with_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/pet_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/movie_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +71,7 @@
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/kanthi_1096_flutter_labs/kanthi_widgets_exercises/lib&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>

@@ -20,14 +20,14 @@ class PetsScreen extends StatelessWidget {
                     child: PetCard(
                       name: 'Bird',
                       imgURL:
-                          'https://www.birds.cornell.edu/home/wp-content/uploads/2023/09/334289821-Baltimore_Oriole-Matthew_Plante.jpg',
+                          'https://ichef.bbci.co.uk/news/976/cpsprodpb/67CF/production/_108857562_mediaitem108857561.jpg',
                     ),
                   ),
                   Expanded(
                     child: PetCard(
                       name: 'Dog',
                       imgURL:
-                          'https://as2.ftcdn.net/v2/jpg/01/17/57/05/1000_F_117570590_2kHuKdli3fA5xE3JVw2C1EjTIqvYckDU.jpg',
+                          'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg',
                     ),
                   ),
                 ],
@@ -41,14 +41,14 @@ class PetsScreen extends StatelessWidget {
                     child: PetCard(
                       name: 'Cat',
                       imgURL:
-                          'https://as1.ftcdn.net/v2/jpg/04/20/60/72/1000_F_420607215_RCvCteFVtZYmmutVuSu6uGzcmV2ivYtD.jpg',
+                          'https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_960_720.jpg',
                     ),
                   ),
                   Expanded(
                     child: PetCard(
                       name: 'Rabbit',
                       imgURL:
-                          'https://as2.ftcdn.net/v2/jpg/01/71/07/15/1000_F_171071581_cDfHOS1v2eSAr9Qe7imhc5iy20TC8KFb.jpg',
+                          'https://cdn.pixabay.com/photo/2019/09/19/06/09/peter-rabbit-4488325_1280.jpg',
                     ),
                   ),
                 ],
