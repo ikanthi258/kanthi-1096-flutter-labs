@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/movie_model.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_model_gallery.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,44 +42,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Flutter.container_quote.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.custom_font.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.pet model screen.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.pet screen.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quote_fav.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.student_profile.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;io.flutter.project.isFirstOpen&quot;: &quot;true&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kanthi_1096_flutter_labs/kanthi_widgets_exercises/lib&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Flutter.container_quote.executor": "Run",
+    "Flutter.custom_font.executor": "Run",
+    "Flutter.movies.executor": "Run",
+    "Flutter.pet model screen.executor": "Run",
+    "Flutter.pet screen.executor": "Run",
+    "Flutter.quote_fav.executor": "Run",
+    "Flutter.student_profile.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "io.flutter.project.isFirstOpen": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kanthi_1096_flutter_labs/kanthi_widgets_exercises/lib",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.pet model screen">
+  <component name="RunManager" selected="Flutter.movies">
     <configuration name="container_quote" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quote_container_card.dart" />
       <method v="2" />
     </configuration>
     <configuration name="custom_font" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movies" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" />
       <method v="2" />
     </configuration>
     <configuration name="pet model screen" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -112,6 +109,7 @@
       <item itemvalue="Flutter.custom_font" />
       <item itemvalue="Flutter.pet screen" />
       <item itemvalue="Flutter.pet model screen" />
+      <item itemvalue="Flutter.movies" />
     </list>
   </component>
   <component name="TaskManager">

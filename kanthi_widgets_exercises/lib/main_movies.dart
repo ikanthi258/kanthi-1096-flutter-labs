@@ -1,3 +1,18 @@
+// ============================================
+// A custom widget QuoteContainerCard
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code re-using code from 'main_quote_card.dart' to create container
+// for author's name and applied Margin, Padding to create space between text.
+//
+// @author Kanthi Phrakhienthong
+// @version 1.0.
+// @date 2025-12-16
+// ============================================
+
 import 'package:flutter/material.dart';
 import 'models/movie_model.dart';
 
@@ -6,13 +21,13 @@ void main() {
     MaterialApp(
       theme: ThemeData(
         useMaterial3: true,
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.orangeAccent),
         brightness: Brightness.light,
       ),
       darkTheme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.blueAccent,
+          seedColor: Colors.orangeAccent,
           brightness: Brightness.dark,
         ),
       ),
@@ -27,10 +42,17 @@ class MainMovies extends StatelessWidget {
   const MainMovies({super.key});
 
   void _handleMovieTap(BuildContext context, Movie movie) {
-    ScaffoldMessenger.of(context).showSnackBar(
+    final messenger = ScaffoldMessenger.of(context);
+    messenger.hideCurrentSnackBar();
+    messenger.showSnackBar(
       SnackBar(
-        content: Text('This is a highly rated movie!'),
-        duration: const Duration(seconds: 2),
+        content: Text(
+          (movie.rating > 8.0
+              ? 'This is a highly rated movie!'
+              : (movie.rating < 6.0
+                    ? 'This movie might need improvement'
+                    : 'This is a good movie')),
+        ),
         action: SnackBarAction(
           label: 'Dismiss',
           onPressed: () {
@@ -66,10 +88,62 @@ class MainMovies extends StatelessWidget {
         rating: 1.9,
       ),
     ];
+
     return Scaffold(
+      appBar: AppBar(title: Text('Movie Lists')),
       body: ListView(
         children: movies.map((movie) {
-          return ListTile();
+          return ListTile(
+            leading: Icon(
+              Icons.movie,
+              color: Theme.of(context).colorScheme.primary,
+            ),
+            title: Text(
+              movie.title,
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.w500,
+                color: Theme.of(context).colorScheme.primary,
+              ),
+            ),
+            subtitle: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  '${movie.year} · ${movie.genre} \nDirector: ${movie.director}',
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Theme.of(context).colorScheme.secondary,
+                  ),
+                ),
+              ],
+            ),
+            trailing: Row(
+              mainAxisSize: MainAxisSize.min, // important for ListTile trailing
+              children: [
+                Icon(
+                  Icons.star,
+                  color: (movie.rating >= 7.0
+                      ? Theme.of(context).colorScheme.primary
+                      : Theme.of(context).colorScheme.onSurfaceVariant),
+                ),
+                const SizedBox(width: 4),
+                Text(
+                  movie.rating.toString(),
+                  style: TextStyle(
+                    fontSize: 18,
+                    fontWeight: (movie.rating >= 7.0
+                        ? FontWeight.bold
+                        : FontWeight.normal),
+                    color: (movie.rating >= 7.0
+                        ? Theme.of(context).colorScheme.primary
+                        : Theme.of(context).colorScheme.onSurfaceVariant),
+                  ),
+                ),
+              ],
+            ),
+            onTap: () => _handleMovieTap(context, movie),
+          );
         }).toList(),
       ),
     );
