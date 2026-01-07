@@ -5,12 +5,11 @@
 // No AI tools were used for this file.
 // All code written independently.
 //
-// This code re-using code from 'main_quote_card.dart' to create container
-// for author's name and applied Margin, Padding to create space between text.
+//
 //
 // @author Kanthi Phrakhienthong
 // @version 1.0.
-// @date 2025-12-16
+// @date 2026-01-07
 // ============================================
 
 import 'package:flutter/material.dart';
