@@ -2,14 +2,14 @@
 // A custom widget QuoteContainerCard
 //
 // AI DOCUMENTATION
-// No AI tools were used for this file.
-// All code written independently.
+// Use AI only searching some syntax for decoration such as example hex-color-code.
 //
-//
+// This code is showing contact lists and has a floating button that allow
+// user to create more contacts with state
 //
 // @author Kanthi Phrakhienthong
 // @version 1.0.
-// @date 2026-01-07
+// @date 2026-01-09
 // ============================================
 
 import 'package:flutter/material.dart';

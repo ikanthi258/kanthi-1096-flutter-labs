@@ -2,14 +2,20 @@
 // A custom widget QuoteContainerCard
 //
 // AI DOCUMENTATION
-// No AI tools were used for this file.
-// All code written independently.
+// Use AI only searching some syntax for text condition such as
+// (movie.rating > 8.0
+//               ? 'This is a highly rated movie!'
+//               : (movie.rating < 6.0
+//                     ? 'This movie might need improvement'
+//                     : 'This is a good movie')).
 //
-//
+// This code showing movie lists by using ListView and allow user
+// to interact with movie panel by tap on it, and Snackbar will appear
+// at bottom of the screen buy condition of rating score.
 //
 // @author Kanthi Phrakhienthong
 // @version 1.0.
-// @date 2026-01-07
+// @date 2026-01-09
 // ============================================
 
 import 'package:flutter/material.dart';
