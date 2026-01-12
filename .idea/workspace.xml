@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/question_choice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/question_with_choices.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/1096--contacts-initial.png" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/1096-contacts-initial.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     &quot;Flutter.movies.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.pet model screen.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.pet screen.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.quiz_question.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.quote_fav.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.student_profile.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -77,7 +79,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.contacts">
+  <component name="RunManager" selected="Flutter.quiz_question">
     <configuration name="contacts" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" />
       <method v="2" />
@@ -102,6 +104,10 @@
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="quiz_question" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="quote_fav" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quote_card.dart" />
       <method v="2" />
@@ -119,6 +125,7 @@
       <item itemvalue="Flutter.pet model screen" />
       <item itemvalue="Flutter.movies" />
       <item itemvalue="Flutter.contacts" />
+      <item itemvalue="Flutter.quiz_question" />
     </list>
   </component>
   <component name="TaskManager">
