@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/contact_image.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/contact_info.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/ratings.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/profile_card_rating.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating_responsive.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +51,7 @@
     "Flutter.movies.executor": "Run",
     "Flutter.pet model screen.executor": "Run",
     "Flutter.pet screen.executor": "Run",
+    "Flutter.profile_card_rating_responsive.executor": "Run",
     "Flutter.profile_card_ratingg.executor": "Run",
     "Flutter.quiz_question.executor": "Run",
     "Flutter.quote_fav.executor": "Run",
@@ -84,7 +81,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.profile_card_ratingg">
+  <component name="RunManager" selected="Flutter.profile_card_rating_responsive">
     <configuration name="contacts" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" />
       <method v="2" />
@@ -107,6 +104,10 @@
     </configuration>
     <configuration name="pet screen" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="profile_card_rating_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating_responsive.dart" />
       <method v="2" />
     </configuration>
     <configuration name="profile_card_ratingg" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -136,6 +137,7 @@
       <item itemvalue="Flutter.contacts" />
       <item itemvalue="Flutter.quiz_question" />
       <item itemvalue="Flutter.profile_card_ratingg" />
+      <item itemvalue="Flutter.profile_card_rating_responsive" />
     </list>
   </component>
   <component name="TaskManager">
