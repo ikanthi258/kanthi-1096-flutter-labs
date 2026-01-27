@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating_responsive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/assets/faculties/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/assets/faculties/engineering.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/assets/faculties/medicine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/product_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/star_rating.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_product_gallery.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/faculty_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/product_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/faculty_detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/product_detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/1096-ex3-detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/1096-ex3-list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +63,11 @@
     "Flutter.contacts.executor": "Run",
     "Flutter.container_quote.executor": "Run",
     "Flutter.custom_font.executor": "Run",
+    "Flutter.faculties.executor": "Run",
     "Flutter.movies.executor": "Run",
     "Flutter.pet model screen.executor": "Run",
     "Flutter.pet screen.executor": "Run",
+    "Flutter.products.executor": "Run",
     "Flutter.profile_card_rating_responsive.executor": "Run",
     "Flutter.profile_card_ratingg.executor": "Run",
     "Flutter.quiz_question.executor": "Run",
@@ -81,7 +98,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.profile_card_rating_responsive">
+  <component name="RunManager" selected="Flutter.products">
     <configuration name="contacts" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" />
       <method v="2" />
@@ -94,6 +111,10 @@
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_custom_font.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="faculties" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="movies" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_movies.dart" />
       <method v="2" />
@@ -104,6 +125,10 @@
     </configuration>
     <configuration name="pet screen" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_pet_gallery.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="products" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_product_gallery.dart" />
       <method v="2" />
     </configuration>
     <configuration name="profile_card_rating_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -138,6 +163,8 @@
       <item itemvalue="Flutter.quiz_question" />
       <item itemvalue="Flutter.profile_card_ratingg" />
       <item itemvalue="Flutter.profile_card_rating_responsive" />
+      <item itemvalue="Flutter.faculties" />
+      <item itemvalue="Flutter.products" />
     </list>
   </component>
   <component name="TaskManager">
