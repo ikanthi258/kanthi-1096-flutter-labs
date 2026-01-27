@@ -1,3 +1,20 @@
+// ============================================
+// A custom widget MainProductGallery
+//
+// AI DOCUMENTATION
+// Use AI for searching some syntax for text condition such as
+// GridView builder, InkWell and some other because forgetfulness.
+// And use AI for generate list of products and description about it.
+//
+// This code showing products card list by using GridView and user
+// can interact with each card by click on it, the application will
+// navigate user to product detail page that will amplify about products,
+// and also has a button that allow user add product to card.
+//
+// @author Kanthi Phrakhienthong
+// @version 1.0.
+// @date 2026-01-27
+// ============================================
 import 'package:flutter/material.dart';
 import 'models/product_model.dart';
 import 'components/product_card.dart';

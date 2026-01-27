@@ -1,3 +1,18 @@
+// ============================================
+// A custom widget MainFacultyList
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code showing faculties list by using ListView and user
+// can interact by click on each faculty and application will
+// navigate user to faculty detail and image of each.
+//
+// @author Kanthi Phrakhienthong
+// @version 1.0.
+// @date 2026-01-27
+// ============================================
 import 'package:flutter/material.dart';
 import 'package:kanthi_first_app_test/screens/faculty_detail.dart';
 import 'models/faculty_model.dart';

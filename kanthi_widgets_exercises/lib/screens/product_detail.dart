@@ -19,13 +19,7 @@ class ProductDetail extends StatelessWidget {
     }
 
     return Scaffold(
-      appBar: AppBar(
-        centerTitle: true,
-        title: Text(
-          product.name,
-          style: TextStyle(color: Theme.of(context).colorScheme.primary),
-        ),
-      ),
+      appBar: AppBar(centerTitle: true, title: Text(product.name)),
       body: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,

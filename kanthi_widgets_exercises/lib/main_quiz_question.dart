@@ -1,9 +1,9 @@
 // ============================================
-// A custom widget QuoteContainerCard
+// A custom widget MainQuizCard
 //
 // AI DOCUMENTATION
-// Use AI only searching some syntax for text style such as
-// textTheme headlineSmall with copy color from colorScheme and others.
+// No AI tools were used for this file.
+// All code written independently.
 //
 // This code showing quiz question by showing image of place.
 // And there are 4 choices that decorated with bgColor and fgColor(text)
@@ -11,7 +11,7 @@
 //
 // @author Kanthi Phrakhienthong
 // @version 1.0.
-// @date 2026-01-12
+// @date 2026-01-27
 // ============================================
 
 import 'package:flutter/material.dart';
