@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/question_choices_responsive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/utils/responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_product_gallery.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_product_gallery.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/product_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/product_detail.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Flutter.profile_card_rating_responsive.executor": "Run",
     "Flutter.profile_card_ratingg.executor": "Run",
     "Flutter.quiz_question.executor": "Run",
+    "Flutter.quiz_question_responsive.executor": "Run",
     "Flutter.quote_fav.executor": "Run",
     "Flutter.student_profile.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -87,7 +87,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.products">
+  <component name="RunManager" selected="Flutter.quiz_question_responsive">
     <configuration name="contacts" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" />
       <method v="2" />
@@ -132,6 +132,10 @@
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="quiz_question_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="quote_fav" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quote_card.dart" />
       <method v="2" />
@@ -154,6 +158,7 @@
       <item itemvalue="Flutter.profile_card_rating_responsive" />
       <item itemvalue="Flutter.faculties" />
       <item itemvalue="Flutter.products" />
+      <item itemvalue="Flutter.quiz_question_responsive" />
     </list>
   </component>
   <component name="TaskManager">
