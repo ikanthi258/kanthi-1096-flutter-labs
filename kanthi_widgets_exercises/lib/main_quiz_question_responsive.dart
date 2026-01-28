@@ -22,6 +22,7 @@ void main() {
         ),
       ),
       home: MainQuizQuestionResponsive(),
+      themeMode: ThemeMode.system,
     ),
   );
 }
