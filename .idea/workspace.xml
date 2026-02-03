@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/news_feed_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/article_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/news_feed_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/news_feed_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/utils/responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/utils/responsive.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Flutter.Article_responsive.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.contacts.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.container_quote.executor&quot;: &quot;Run&quot;,
     &quot;Flutter.custom_font.executor&quot;: &quot;Run&quot;,
@@ -86,7 +89,11 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.quiz_question_responsive">
+  <component name="RunManager" selected="Flutter.Article_responsive">
+    <configuration name="Article_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="contacts" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" />
       <method v="2" />
@@ -158,6 +165,7 @@
       <item itemvalue="Flutter.faculties" />
       <item itemvalue="Flutter.products" />
       <item itemvalue="Flutter.quiz_question_responsive" />
+      <item itemvalue="Flutter.Article_responsive" />
     </list>
   </component>
   <component name="TaskManager">
