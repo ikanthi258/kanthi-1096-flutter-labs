@@ -1,3 +1,19 @@
+// ============================================
+// A custom widget MainQuizQuestionResponsive
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code using utility responsive to adjust screen padding and grid padding
+// also adjust answer card to GridView Builder instead of Row, Column
+// with these improvement we can rotate screen and all components still working.
+//
+// @author Kanthi Phrakhienthong
+// @version 1.0.
+// @date 2025-02-03
+// ============================================
+
 import 'package:flutter/material.dart';
 import 'components/question_choice.dart';
 import 'components/question_choices_responsive.dart';

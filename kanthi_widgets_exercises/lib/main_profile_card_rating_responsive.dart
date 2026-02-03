@@ -1,3 +1,17 @@
+// ============================================
+// A custom widget MainProfileCardRatingResponsive
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code using MediaQuery of Orientation to check what position of the screen
+// So user can rotate screen to landscape and portrait with all components still working.
+//
+// @author Kanthi Phrakhienthong
+// @version 1.0.
+// @date 2025-02-03
+// ============================================
 import 'package:flutter/material.dart';
 import 'components/contact_image.dart';
 import 'components/contact_info.dart';

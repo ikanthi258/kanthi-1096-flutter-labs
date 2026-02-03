@@ -19,13 +19,14 @@ class Responsive {
     return 8;
   }
 
+  // Checking device wideness //
   static bool isMobile(BuildContext context) =>
       isMobileFromWidth(MediaQuery.of(context).size.width);
   static bool isMobileFromWidth(double width) => width <= 600;
   static bool isTabletFromWidth(double width) => width > 600 && width <= 900;
   static bool isDesktopFromWidth(double width) => width > 900;
 
-  // ---------- Columns based on width ----------
+  // Columns based on width //
   static int getColumnCount(double width) {
     if (isMobileFromWidth(width)) return 1;
     if (isTabletFromWidth(width)) return 2;

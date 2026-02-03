@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/models/article_model.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/news_feed_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/news_feed_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_card_rating_responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question_responsive.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/utils/responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/utils/responsive.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
