@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/profile_with_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/components/interactive_ratings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_interactivity_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/screens/profile_card_rating_responsive.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +85,9 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\kanthi_1096_flutter_labs\kanthi_interactivity_exercises\lib\components" />
+      <recent name="D:\kanthi_1096_flutter_labs\kanthi_interactivity_exercises\lib\screens" />
+      <recent name="D:\kanthi_1096_flutter_labs\kanthi_interactivity_exercises\lib" />
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
