@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/components/question_choice.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_answer.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/screens/question_with_choices.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/components/question_choice_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_next.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/models/choice.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/models/question.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/screens/quiz_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/screens/profile_card_rating_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/screens/profile_card_rating_responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_interactivity_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_interactivity_profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_answer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_answer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_profile_button.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +66,7 @@
     "Flutter.profile_card_rating_responsive.executor": "Run",
     "Flutter.profile_card_ratingg.executor": "Run",
     "Flutter.quiz_check.executor": "Run",
+    "Flutter.quiz_next.executor": "Run",
     "Flutter.quiz_question.executor": "Run",
     "Flutter.quiz_question_responsive.executor": "Run",
     "Flutter.quote_fav.executor": "Run",
@@ -96,7 +101,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.quiz_check">
+  <component name="RunManager" selected="Flutter.quiz_next">
     <configuration name="Article_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" />
       <method v="2" />
@@ -153,6 +158,10 @@
       <option name="filePath" value="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_answer.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="quiz_next" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_interactivity_exercises/lib/main_quiz_check_next.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="quiz_question" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_quiz_question.dart" />
       <method v="2" />
@@ -188,6 +197,7 @@
       <item itemvalue="Flutter.profile_button" />
       <item itemvalue="Flutter.card_rating_interact" />
       <item itemvalue="Flutter.quiz_check" />
+      <item itemvalue="Flutter.quiz_next" />
     </list>
   </component>
   <component name="TaskManager">

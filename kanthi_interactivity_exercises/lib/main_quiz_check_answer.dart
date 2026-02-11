@@ -1,3 +1,16 @@
+// ============================================
+// A custom widget MainQuizQuestionResponsive
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code showing quiz question and and checking answer correct or not
+// and showing AlertDialog with current score.
+//
+// @author Kanthi Phrakhienthong
+// @date 2025-02-11
+// ============================================
 import 'package:flutter/material.dart';
 import 'package:kanthi_interactivity_exercises/components/question_choice.dart';
 import 'screens/question_with_choices.dart';

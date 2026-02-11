@@ -1,3 +1,16 @@
+// ============================================
+// A custom widget MainInteractivityProfile
+//
+// AI DOCUMENTATION
+// No AI tools were used for this file.
+// All code written independently.
+//
+// This code showing profile rating with interactivity
+// that let user adjust ratings by tapping on star icons
+//
+// @author Kanthi Phrakhienthong
+// @date 2025-02-11
+// ============================================
 import 'package:flutter/material.dart';
 import 'screens/profile_card_rating_responsive.dart';
 
