@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_ip_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/models/album.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/models/user.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,45 +50,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Flutter.Article_responsive.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.card_rating_interact.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.contacts.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.container_quote.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.custom_font.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.faculties.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.movies.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.pet model screen.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.pet screen.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.products.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.profile_button.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.profile_card_rating_responsive.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.profile_card_ratingg.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quiz_check.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quiz_next.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quiz_question.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quiz_question_responsive.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.quote_fav.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.student_profile.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;io.flutter.project.isFirstOpen&quot;: &quot;true&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kanthi_1096_flutter_labs/kanthi_interactivity_exercises/assets&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Flutter.Article_responsive.executor": "Run",
+    "Flutter.api_albums.executor": "Run",
+    "Flutter.api_user.executor": "Run",
+    "Flutter.card_rating_interact.executor": "Run",
+    "Flutter.contacts.executor": "Run",
+    "Flutter.container_quote.executor": "Run",
+    "Flutter.custom_font.executor": "Run",
+    "Flutter.faculties.executor": "Run",
+    "Flutter.movies.executor": "Run",
+    "Flutter.pet model screen.executor": "Run",
+    "Flutter.pet screen.executor": "Run",
+    "Flutter.products.executor": "Run",
+    "Flutter.profile_button.executor": "Run",
+    "Flutter.profile_card_rating_responsive.executor": "Run",
+    "Flutter.profile_card_ratingg.executor": "Run",
+    "Flutter.quiz_check.executor": "Run",
+    "Flutter.quiz_next.executor": "Run",
+    "Flutter.quiz_question.executor": "Run",
+    "Flutter.quiz_question_responsive.executor": "Run",
+    "Flutter.quote_fav.executor": "Run",
+    "Flutter.student_profile.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.project.isFirstOpen": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kanthi_1096_flutter_labs/kanthi_interactivity_exercises/assets",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_interactivity_exercises\assets" />
@@ -95,9 +104,17 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.quiz_next">
+  <component name="RunManager" selected="Flutter.api_user">
     <configuration name="Article_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_albums" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_user" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" />
       <method v="2" />
     </configuration>
     <configuration name="card_rating_interact" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -192,6 +209,8 @@
       <item itemvalue="Flutter.card_rating_interact" />
       <item itemvalue="Flutter.quiz_check" />
       <item itemvalue="Flutter.quiz_next" />
+      <item itemvalue="Flutter.api_user" />
+      <item itemvalue="Flutter.api_albums" />
     </list>
   </component>
   <component name="TaskManager">
