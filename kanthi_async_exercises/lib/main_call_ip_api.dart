@@ -1,3 +1,18 @@
+// ============================================
+// Async API Program : Fetch Public IP
+//
+// AI DOCUMENTATION
+// use AI for only learning and sample concept explanation.
+// All code implementation, structure, and debugging were completed independently.
+//
+// This program calling API by fetches the user's public IP address
+// using jsonDecode for parses a JSON response.
+// The result is displayed in the console output.
+//
+// @author Kanthi Phrakhienthong
+// @date 2026-02-18
+// ============================================
+
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 

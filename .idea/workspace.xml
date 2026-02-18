@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/models/album.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/models/user.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_ip_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_ip_api.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

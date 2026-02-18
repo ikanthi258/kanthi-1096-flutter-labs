@@ -1,3 +1,20 @@
+// ============================================
+// Async API Program : Fetch User Data
+//
+// AI DOCUMENTATION
+// use AI for learning and error explanation such as network error,
+// API error status codes, and environment variable usage.
+// Author implemented code almost independently, using AI to help correct
+// understanding and concept clarification.
+//
+// This program calls a REST API to fetch user data
+// and parses JSON response into a User data model using factory constructor.
+// The application implements asynchronous API calling with error handling,
+// and displays the result in Flutter UI using RichText widget.
+//
+// @author Kanthi Phrakhienthong
+// @date 2026-02-18
+// ============================================
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;

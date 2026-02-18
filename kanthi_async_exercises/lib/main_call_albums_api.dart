@@ -1,3 +1,23 @@
+// ============================================
+// Async API Program : Fetch Albums List
+//
+// AI DOCUMENTATION
+// use AI for learning and error explanation such as network error,
+// API error status codes, and environment variable usage.
+// Author implemented code almost independently, using AI to help correct
+// understanding and concept clarification.
+//
+// This program calls a REST API to fetch albums data
+// using environment variables loaded from .env file for configuration.
+// The JSON array response is parsed into Album data model objects
+// using a factory constructor and converted into a List using map().
+// The application implements asynchronous API calling with error handling,
+// and displays the result in Flutter UI using ListView.builder.
+//
+// @author Kanthi Phrakhienthong
+// @date 2026-02-18
+// ============================================
+
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
