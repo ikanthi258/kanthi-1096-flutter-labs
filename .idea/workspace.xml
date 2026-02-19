@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kanthi_shared_pref_exercises/lib/main_login_shared_pref.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_shared_pref_exercises/outputs/1096-shared-prefs-clips.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_api_data_model.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_albums_api.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_ip_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/lib/main_call_ip_api.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,9 @@
     &quot;accountId&quot;: &quot;26fb75d5-3dd6-434c-845a-749a602ae226&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -55,6 +59,7 @@
     "Flutter.container_quote.executor": "Run",
     "Flutter.custom_font.executor": "Run",
     "Flutter.faculties.executor": "Run",
+    "Flutter.login.executor": "Run",
     "Flutter.movies.executor": "Run",
     "Flutter.pet model screen.executor": "Run",
     "Flutter.pet screen.executor": "Run",
@@ -98,7 +103,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.api_user">
+  <component name="RunManager" selected="Flutter.login">
     <configuration name="Article_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" />
       <method v="2" />
@@ -129,6 +134,10 @@
     </configuration>
     <configuration name="faculties" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/kanthi_shared_pref_exercises/lib/main_login_shared_pref.dart" />
       <method v="2" />
     </configuration>
     <configuration name="movies" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -204,6 +213,7 @@
       <item itemvalue="Flutter.quiz_check" />
       <item itemvalue="Flutter.quiz_next" />
       <item itemvalue="Flutter.api_user" />
+      <item itemvalue="Flutter.login" />
       <item itemvalue="Flutter.api_albums" />
     </list>
   </component>
