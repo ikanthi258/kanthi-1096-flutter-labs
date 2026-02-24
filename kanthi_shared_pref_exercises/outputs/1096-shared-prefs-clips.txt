@@ -1,1 +1,3 @@
 Login Form with SharedPreferences Cache : https://youtu.be/r6q_EHlRHwg
+
+Profile Card with Persistent Star Rating : https://youtu.be/FJM1Yq7PGq0
