@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kanthi_first_app_test/components/pet_card_with_model.dart';
+import '../components/pet_card_with_model.dart';
 import '../models/pet_model.dart';
 
 void main() {

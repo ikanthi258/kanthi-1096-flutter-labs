@@ -13,7 +13,7 @@
 // ============================================
 
 import 'package:flutter/material.dart';
-import 'package:kanthi_first_app_test/screens/contact_list_screen.dart';
+import 'package:kanthi_widgets_exercises/screens/contact_list_screen.dart';
 
 void main() {
   runApp(

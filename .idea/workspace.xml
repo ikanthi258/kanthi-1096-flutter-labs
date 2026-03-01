@@ -5,11 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_shared_pref_exercises/lib/main_login_shared_pref.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_shared_pref_exercises/outputs/1096-shared-prefs-clips.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_async_exercises/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_first_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_first_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_interactivity_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_interactivity_exercises/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_shared_pref_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_shared_pref_exercises/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/question_choices_responsive.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/components/question_choices_responsive.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_contact_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_faculty_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/lib/screens/pets_gallery_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanthi_widgets_exercises/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_widgets_exercises/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +50,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ikanthi258/kanthi-1096-flutter-labs.git&quot;,
-    &quot;accountId&quot;: &quot;26fb75d5-3dd6-434c-845a-749a602ae226&quot;
+    &quot;accountId&quot;: &quot;bd502b47-4bee-4606-8e94-28fefd2e5c2b&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -77,6 +96,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
@@ -85,8 +105,11 @@
     "io.flutter.project.isFirstOpen": "true",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/kanthi_1096_flutter_labs/kanthi_interactivity_exercises/assets",
-    "settings.editor.selected.configurable": "flutter.settings",
+    "last_opened_file_path": "D:/kanthi-1096-flutter-labs",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -103,7 +126,7 @@
       <recent name="D:\kanthi_1096_flutter_labs\kanthi_widgets_exercises\lib\screens" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.login">
+  <component name="RunManager" selected="Flutter.api_albums">
     <configuration name="Article_responsive" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_news_feed_responsive.dart" />
       <method v="2" />
@@ -192,30 +215,6 @@
       <option name="filePath" value="$PROJECT_DIR$/kanthi_widgets_exercises/lib/main_student_profile.dart" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Flutter.student_profile" />
-      <item itemvalue="Flutter.quote_fav" />
-      <item itemvalue="Flutter.container_quote" />
-      <item itemvalue="Flutter.custom_font" />
-      <item itemvalue="Flutter.pet screen" />
-      <item itemvalue="Flutter.pet model screen" />
-      <item itemvalue="Flutter.movies" />
-      <item itemvalue="Flutter.contacts" />
-      <item itemvalue="Flutter.quiz_question" />
-      <item itemvalue="Flutter.profile_card_ratingg" />
-      <item itemvalue="Flutter.profile_card_rating_responsive" />
-      <item itemvalue="Flutter.faculties" />
-      <item itemvalue="Flutter.products" />
-      <item itemvalue="Flutter.quiz_question_responsive" />
-      <item itemvalue="Flutter.Article_responsive" />
-      <item itemvalue="Flutter.profile_button" />
-      <item itemvalue="Flutter.card_rating_interact" />
-      <item itemvalue="Flutter.quiz_check" />
-      <item itemvalue="Flutter.quiz_next" />
-      <item itemvalue="Flutter.api_user" />
-      <item itemvalue="Flutter.login" />
-      <item itemvalue="Flutter.api_albums" />
-    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -226,5 +225,10 @@
       <updated>1765785772623</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/kanthi_first_app" />
+    </ignored-roots>
   </component>
 </project>

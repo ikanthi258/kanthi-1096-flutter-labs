@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kanthi_async_exercises/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/kanthi_async_exercises/android/app/src/debug/debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" filepath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanthi_async_exercises/kanthi_async_exercises.iml" filepath="$PROJECT_DIR$/kanthi_async_exercises/kanthi_async_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanthi_first_app/kanthi_first_app.iml" filepath="$PROJECT_DIR$/kanthi_first_app/kanthi_first_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanthi_widgets_exercises/kanthi_widgets_exercises.iml" filepath="$PROJECT_DIR$/kanthi_widgets_exercises/kanthi_widgets_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanthi_async_exercises/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/kanthi_async_exercises/android/app/src/profile/profile.iml" />
     </modules>
   </component>
 </project>

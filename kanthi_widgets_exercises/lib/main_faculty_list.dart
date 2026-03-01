@@ -14,7 +14,7 @@
 // @date 2026-01-27
 // ============================================
 import 'package:flutter/material.dart';
-import 'package:kanthi_first_app_test/screens/faculty_detail.dart';
+import 'package:kanthi_widgets_exercises/screens/faculty_detail.dart';
 import 'models/faculty_model.dart';
 
 void main() {

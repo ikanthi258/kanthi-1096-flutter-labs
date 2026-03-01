@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kanthi_first_app_test/utils/responsive.dart';
+import '../utils/responsive.dart';
 import 'question_choice.dart';
 
 class QuestionChoicesResponsive extends StatelessWidget {
