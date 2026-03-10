@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:kanthi_interactivity_exercises/models/question.dart';
 import '../components/question_choice_card.dart';
 
-class QuizScreen extends StatefulWidget {
+class QuizScreenHome extends StatefulWidget {
   final QuestionMultiple question;
   final int questionNumber;
   final int totalQuestions;
@@ -12,10 +12,11 @@ class QuizScreen extends StatefulWidget {
   final bool showNextButton;
   final VoidCallback onPrevious;
   final VoidCallback onNext;
+  final VoidCallback onHome;
   final Function(int selectedIndex, bool wasAnswered, int? previousIndex)
   onAnswerSelected;
 
-  const QuizScreen({
+  const QuizScreenHome({
     super.key,
     required this.question,
     required this.questionNumber,
@@ -26,14 +27,15 @@ class QuizScreen extends StatefulWidget {
     required this.showNextButton,
     required this.onPrevious,
     required this.onNext,
+    required this.onHome,
     required this.onAnswerSelected,
   });
 
   @override
-  State<QuizScreen> createState() => _QuizScreenState();
+  State<QuizScreenHome> createState() => _QuizScreenHomeState();
 }
 
-class _QuizScreenState extends State<QuizScreen> {
+class _QuizScreenHomeState extends State<QuizScreenHome> {
   int? selectedIndex;
 
   @override
@@ -43,7 +45,7 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   @override
-  void didUpdateWidget(covariant QuizScreen oldWidget) {
+  void didUpdateWidget(covariant QuizScreenHome oldWidget) {
     super.didUpdateWidget(oldWidget);
     if (oldWidget.initialSelectedIndex != widget.initialSelectedIndex ||
         oldWidget.isInitiallyAnswered != widget.isInitiallyAnswered) {
@@ -122,19 +124,36 @@ class _QuizScreenState extends State<QuizScreen> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              if (widget.showPreviousButton)
-                ElevatedButton(
+              // Previous — ใช้ Visibility+maintainSize เพื่อให้ Home อยู่ตรงกลางเสมอ
+              Visibility(
+                visible: widget.showPreviousButton,
+                maintainSize: true,
+                maintainAnimation: true,
+                maintainState: true,
+                child: ElevatedButton(
                   onPressed: widget.onPrevious,
                   child: const Text('Previous'),
-                )
-              else
-                const SizedBox(width: 80),
-              ElevatedButton(
-                onPressed: widget.onNext,
-                child: Text(
-                  widget.questionNumber == widget.totalQuestions
-                      ? 'Submit'
-                      : 'Next',
+                ),
+              ),
+              // Home — แสดงเสมอ ไม่มี Visibility wrapper
+              ElevatedButton.icon(
+                onPressed: widget.onHome,
+                icon: const Icon(Icons.home),
+                label: const Text('Home'),
+              ),
+              // Next — ใช้ Visibility+maintainSize
+              Visibility(
+                visible: widget.showNextButton,
+                maintainSize: true,
+                maintainAnimation: true,
+                maintainState: true,
+                child: ElevatedButton(
+                  onPressed: widget.onNext,
+                  child: Text(
+                    widget.questionNumber == widget.totalQuestions
+                        ? 'Submit'
+                        : 'Next',
+                  ),
                 ),
               ),
             ],

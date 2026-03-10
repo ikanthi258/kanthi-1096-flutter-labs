@@ -21,6 +21,9 @@
       <excludeFolder url="file://$MODULE_DIR$/kanthi_shared_pref_exercises/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/kanthi_shared_pref_exercises/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/kanthi_shared_pref_exercises/build" />
+      <excludeFolder url="file://$MODULE_DIR$/kanthi_navigation_exercises/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/kanthi_navigation_exercises/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/kanthi_navigation_exercises/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
