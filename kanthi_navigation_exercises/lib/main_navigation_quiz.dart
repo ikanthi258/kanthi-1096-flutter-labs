@@ -54,10 +54,22 @@ class _QuizAppState extends State<QuizApp> {
       text: 'Select the correct city.',
       imagePath: 'assets/images/chiangmai.jpg',
       choices: [
-        Choice(name: 'Chiang Mai', isCorrect: true, displayColor: Colors.blue),
-        Choice(name: 'Bangkok', isCorrect: false, displayColor: Colors.blue),
-        Choice(name: 'Phuket', isCorrect: false, displayColor: Colors.blue),
-        Choice(name: 'Pattaya', isCorrect: false, displayColor: Colors.blue),
+        Choice(
+          name: 'Chiang Mai',
+          isCorrect: true,
+          displayColor: Colors.deepPurpleAccent,
+        ),
+        Choice(
+          name: 'Bangkok',
+          isCorrect: false,
+          displayColor: Colors.deepOrangeAccent,
+        ),
+        Choice(
+          name: 'Phuket',
+          isCorrect: false,
+          displayColor: Colors.lightBlueAccent,
+        ),
+        Choice(name: 'Pattaya', isCorrect: false, displayColor: Colors.green),
       ],
     ),
     QuestionMultiple(
@@ -68,25 +80,45 @@ class _QuizAppState extends State<QuizApp> {
         Choice(
           name: 'Udon Thani',
           isCorrect: false,
-          displayColor: Colors.purple,
+          displayColor: Colors.purpleAccent,
         ),
-        Choice(name: 'Khon Kaen', isCorrect: true, displayColor: Colors.purple),
-        Choice(name: 'Korat', isCorrect: false, displayColor: Colors.purple),
-        Choice(name: 'Roi Et', isCorrect: false, displayColor: Colors.purple),
+        Choice(
+          name: 'Khon Kaen',
+          isCorrect: true,
+          displayColor: Colors.orangeAccent,
+        ),
+        Choice(
+          name: 'Korat',
+          isCorrect: false,
+          displayColor: Colors.lightBlueAccent,
+        ),
+        Choice(
+          name: 'Roi Et',
+          isCorrect: false,
+          displayColor: Colors.pinkAccent,
+        ),
       ],
     ),
     QuestionMultiple(
       title: 'Where is this picture?',
-      text: 'Select the correct location.',
+      text: 'Select the correct city.',
       imagePath: 'assets/images/ubon.jpg',
       choices: [
-        Choice(name: 'Mukdahan', isCorrect: false, displayColor: Colors.green),
+        Choice(
+          name: 'Mukdahan',
+          isCorrect: false,
+          displayColor: Colors.amberAccent,
+        ),
         Choice(name: 'Korat', isCorrect: false, displayColor: Colors.green),
-        Choice(name: 'Khon Kaen', isCorrect: false, displayColor: Colors.green),
+        Choice(
+          name: 'Khon Kaen',
+          isCorrect: false,
+          displayColor: Colors.deepOrangeAccent,
+        ),
         Choice(
           name: 'Ubon Ratchathani',
           isCorrect: true,
-          displayColor: Colors.green,
+          displayColor: Colors.deepPurpleAccent,
         ),
       ],
     ),

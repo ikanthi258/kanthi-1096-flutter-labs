@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f911e879-e42c-4df1-895d-f0eca7f588b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/assets/images/chiangmai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/assets/images/khonkaen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/assets/images/ubon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/main_navigation_quiz_cover.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/main_navigation_quiz_result.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/screens/quiz_result_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/screens/quiz_screen_home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kanthi_1096_flutter_labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/output/1096-navigation-clips.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/components/question_choice_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/components/question_choice_card.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/main_navigation_quiz.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/main_navigation_quiz.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/screens/quiz_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/lib/screens/quiz_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_navigation_exercises/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanthi_navigation_exercises/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/kanthi_navigation_exercises/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
